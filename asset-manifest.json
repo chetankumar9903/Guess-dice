@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Guess-dice/static/css/main.d1dfbcab.css",
+    "main.js": "/Guess-dice/static/js/main.465b9137.js",
+    "index.html": "/Guess-dice/index.html",
+    "main.d1dfbcab.css.map": "/Guess-dice/static/css/main.d1dfbcab.css.map",
+    "main.465b9137.js.map": "/Guess-dice/static/js/main.465b9137.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1dfbcab.css",
+    "static/js/main.465b9137.js"
+  ]
+}
